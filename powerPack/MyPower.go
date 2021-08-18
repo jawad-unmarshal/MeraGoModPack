@@ -1,4 +1,4 @@
-package powerpack
+package powerPack
 
 func FindPow(base float64, raise int) float64 {
 	var pow float64 = 1.
