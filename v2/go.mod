@@ -1,3 +1,3 @@
-module github.com/jawad-unmarshal/MeraGoModPackMyApp3/v2
+module github.com/jawad-unmarshal/MeraGoModPack/v2
 
 go 1.15
